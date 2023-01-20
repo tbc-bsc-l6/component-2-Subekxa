@@ -1,0 +1,30 @@
+body{
+    /* font-family: 'Karla', sans-serif; */
+    font-family:  Arial, Helvetica, sans-serif; 
+   
+    background-color: #c7bda6;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header{
+    /* background-color: #8d0af9; */
+    /* color: ; */
+    padding: 1rem;
+}
+
+.header h1{
+    font-weight: bolder;
+}
+
+p{
+    line-height: 1.6;
+}
+
+
+/* 
+.button {
+    background-color: pink;
+    color: black;
+    border: 2px solid #555555;
+  } */
