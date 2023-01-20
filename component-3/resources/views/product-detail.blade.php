@@ -18,7 +18,7 @@
             </h5>
             <br>   
             <h5 class="text-right"> <strong>Description:</strong>
-                {!! $product->description !!}
+                <p>{!! $product->description !!}</p>
             </h5>
         </div>
         <a class="btn btn-dark border-4 text-gray" href="/">Go back</a>
